@@ -1,0 +1,22 @@
+# Local Xenbase data
+data/*.txt
+data/*.tsv
+data/*.csv
+
+# Generated SQLite database
+data/*.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# VS Code local state
+.vscode/*.log
+
+data/*.db-shm
+data/*.db-wal

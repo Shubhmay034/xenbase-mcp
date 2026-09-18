@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "xenbase": {
+      "type": "stdio",
+      "command": "/Users/shubhamaydas/.local/bin/uv",
+      "args": [
+        "run",
+        "--project",
+        "${workspaceFolder}",
+        "xenbase-mcp"
+      ]
+    }
+  }
+}
