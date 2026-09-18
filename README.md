@@ -26,3 +26,4 @@ From the project directory:
 uv sync
 uv run python scripts/update_xenbase_data.py
 uv run mcp dev xenbase_mcp/server.py
+
